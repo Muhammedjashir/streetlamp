@@ -7,7 +7,6 @@
 	--ground-dark: #6d5f45;
 }
 
-
 body {
 	margin: 0;
 	padding: 0;
@@ -37,7 +36,7 @@ body:before {
 	justify-content: center;
 }
 
-.builidngs {
+.buildings {
 	width: 100vw;
 	height: 100vh;
 	background: linear-gradient(180deg, #021023, #222329); 
